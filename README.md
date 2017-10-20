@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/TranscribersOfReddit/TranscribersOfReddit.png?label=ready&title=Ready)](http://waffle.io/TranscribersOfReddit/TranscribersOfReddit)
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/TranscribersOfReddit/TranscribersOfReddit.svg?columns=all)](http://waffle.io/TranscribersOfReddit/TranscribersOfReddit)
 
 # Transcribers of Reddit
 
